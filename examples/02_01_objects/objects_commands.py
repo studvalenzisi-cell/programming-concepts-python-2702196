@@ -6,7 +6,7 @@
 print('shirt')
 print(type('shirt'))
 print(dir('shirt'))
-
+print(('socks'))
 # use upper method on a string object
 print('shirt'.upper())
 
